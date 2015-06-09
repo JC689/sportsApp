@@ -27,6 +27,8 @@ gem 'bootstrap-sass'
 
 gem 'bcrypt'
 
+gem 'puma'
+
 group :test do
 	gem 'minitest-reporters'
 	gem 'mini_backtrace'
